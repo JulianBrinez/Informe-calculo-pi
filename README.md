@@ -1,5 +1,7 @@
 # Informe calculo - pi
 
+## Julian Briñez
+## Francisco Morales
 
 # Calculo pi 
 
